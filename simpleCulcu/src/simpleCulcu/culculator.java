@@ -19,14 +19,13 @@ public class culculator {
         String Operation = Scan.next();
         String EO = "You have selected ";
                 switch (Operation) {
-
         case "*": System.out.println(EO + "* \n Your Result: "+( xe * xo )); break;
         case "/": System.out.println(EO + "/ \n Your Result: "+ ( xe / xo )); break;
         case "+": System.out.println(EO + "+ \n Your Result: "+ ( xe + xo ));break;
         case "-": System.out.println(EO + "- \n Your Result: "+( xe - xo )); break;
         default: System.out.println("\n Please select a valid character"); }
 
-        //Close
+      //Close
         Scan.close();
         System.out.println(" Closing Application ");
     }
