@@ -18,7 +18,6 @@ public class culculator {
         System.out.println("\n Select between (*,/,+,-)\n Type out the character in a single letter: ");
         String Operation = Scan.next();
         String EO = "You have selected ";
-
                 switch (Operation) {
 
         case "*": System.out.println(EO + "* \n Your Result: "+( xe * xo )); break;
