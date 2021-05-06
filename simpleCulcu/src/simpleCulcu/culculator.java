@@ -5,13 +5,8 @@ public class culculator {
 
 
     public static void main(String[] args) {
-
-
-
         System.out.println(" Welcome to Java Calculator v0.1 \n");
         Scanner Scan = new Scanner(System.in);
-
-
         System.out.println("\n Please enter two numbers");
         int xe;
         int xo;
