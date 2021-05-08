@@ -16,7 +16,7 @@ public class culculator {
         xo = Scan.nextInt();
         
         
-        asdfg
+        
 
         System.out.println("\n Select between (*,/,+,-)\n Type out the character in a single letter: ");
         String Operation = Scan.next();
