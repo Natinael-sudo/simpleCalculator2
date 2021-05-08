@@ -15,7 +15,7 @@ public class culculator {
         System.out.print("\n Second number: ");
         xo = Scan.nextInt();
         
-        
+        fghjkljjlkl
         
 
         System.out.println("\n Select between (*,/,+,-)\n Type out the character in a single letter: ");
