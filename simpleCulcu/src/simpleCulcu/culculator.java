@@ -26,6 +26,8 @@ public class culculator {
         default: System.out.println("\n Please select a valid character"); }
       //Close
         Scan.close();
+        
+        
         System.out.println(" Closing Application ");
     }
 }
